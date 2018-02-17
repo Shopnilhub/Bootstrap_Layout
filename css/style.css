@@ -1,0 +1,30 @@
+/*Custom css file*/
+.common_bg{background-color: aquamarine;margin-top: 15px;}
+.header_height{min-height: 100px;}
+
+.item_one{background-color: #01AEF0;}
+.item_two{background-color: #3879D9;margin-top: 15px;height: 150px;}
+.padding_right_disable{padding-right: 0px;}
+.brand,.global_nav,.tools {    min-height: 70px;
+    margin-top: 15px;
+    margin-bottom: 15px;}
+.hero_height{    min-height: 150px;
+    }
+
+.hero_feature,.call_to_action{min-height: 100px;margin-top: 25px;margin-bottom: 25px;}
+
+/*style self*/
+
+.body_height{min-height: 500px;}
+
+.article_fituring,.article_lighting{min-height: 400px;margin-top:70px;margin-bottom: 30px; }
+.sidebar_feature{padding-left:  10px;padding-right: 10px;padding-top: 1px;}
+.sidebar_content{height: 400px;
+    margin-top: 70px;
+    }
+
+
+
+
+/*footer*/
+.footer_height{min-height: 70px;margin-bottom: 15px;}
